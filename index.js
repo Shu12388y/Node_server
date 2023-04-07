@@ -20,3 +20,4 @@ else{
 server.listen(PORT,()=>{
 console.log("hello server listening on port")
 });
+console.log("hello");
